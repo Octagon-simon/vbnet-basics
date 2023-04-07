@@ -1,7 +1,7 @@
 Module arrayApl
     Sub Main()
         'How to use the ReDim statement to resize an array
-        'Create a dynamic array that will store even numbers from 1 to 20 and then resize accordingly to
+        'Create an array that will store even numbers from 1 to 20 and then resize accordingly to
         'accomodate the even numbers from 1 to 20
 
         Dim even(-1) As Integer 'Create array that will store Integers. The length changes dynamically
