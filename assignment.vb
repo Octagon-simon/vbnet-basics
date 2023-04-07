@@ -1,7 +1,7 @@
 Module arrayApl
     Sub Main()
 
-        Dim even(9) As Integer 'Create array that will store Integers. This array will hold 10 even numbers
+        Dim even(9) As Integer 'Create array that will store Integers. This array will hold 10 elements but with index running from 0 - 9
     
         For i As Integer = 1 To 10 'Create a counter i and then Loop from 1 - 10
 
